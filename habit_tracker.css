@@ -1,0 +1,15 @@
+habit_tracker/
+  ├── android/
+  ├── ios/
+  ├── lib/
+  │   ├── main.dart
+  │   ├── screens/
+  │   │   ├── home_screen.dart
+  │   │   ├── add_habit_screen.dart
+  │   │   ├── habit_details_screen.dart
+  │   ├── widgets/
+  │   │   ├── habit_card.dart
+  │   └── models/
+  │       └── habit_model.dart
+  ├── pubspec.yaml
+  ├── firebase.json
